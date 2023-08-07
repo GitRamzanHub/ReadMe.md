@@ -21,6 +21,9 @@ I believe that building connections with like-minded developers can lead to incr
 ![linkedin](https://img.shields.io/badge/LinkedIn-#0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ramzan-sheikh-86580a180/)]
 [![linkedin](https://img.shields.io/badge/LinkedIn-#0A66C2](https://www.linkedin.com/in/ramzan-sheikh-86580a180/)]
 
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/your-username) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ramzan-sheikh-86580a180/)
+
+
 Thank you for visiting my GitHub profile! 🙏 Let's code together and make the software development world an exciting and innovative place!
 
 Happy coding! 💻

@@ -18,8 +18,7 @@ I am a passionate Java developer with an unwavering love for software developmen
 **Let's Connect**
 I believe that building connections with like-minded developers can lead to incredible collaborations. Feel free to reach out to me via email or social media, and let's chat about anything related to software development, Java, DSA, or just about any exciting tech topic!
 
-![linkedin](https://img.shields.io/badge/LinkedIn-#0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)(https://www.linkedin.com/in/ramzan-sheikh-86580a180/)]
-
+![linkedin](https://img.shields.io/badge/LinkedIn-#0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ramzan-sheikh-86580a180/)]
 Thank you for visiting my GitHub profile! 🙏 Let's code together and make the software development world an exciting and innovative place!
 
 Happy coding! 💻

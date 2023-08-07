@@ -18,10 +18,9 @@ I am a passionate Java developer with an unwavering love for software developmen
 **Let's Connect**
 I believe that building connections with like-minded developers can lead to incredible collaborations. Feel free to reach out to me via email or social media, and let's chat about anything related to software development, Java, DSA, or just about any exciting tech topic!
 
-![linkedin](https://img.shields.io/badge/LinkedIn-#0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ramzan-sheikh-86580a180/)]
-[![linkedin](https://img.shields.io/badge/LinkedIn-#0A66C2](https://www.linkedin.com/in/ramzan-sheikh-86580a180/)]
-
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/your-username) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ramzan-sheikh-86580a180/)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/GitRamzanHub) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ramzan-sheikh-86580a180/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white)]([https://www.facebook.com/your-profile/](https://www.facebook.com/skramzan.kureshi))
 
 
 Thank you for visiting my GitHub profile! 🙏 Let's code together and make the software development world an exciting and innovative place!
